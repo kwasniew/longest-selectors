@@ -1,0 +1,28 @@
+{
+  "name": "longest-selectors",
+  "version": "1.0.0",
+  "description": "finds longest selectors in CSS",
+  "main": "index.js",
+  "bin": {
+    "style-in": "cli.js"
+  },
+  "author": "Mateusz Kwasniewski",
+  "license": "BSD",
+  "dependencies": {
+    "list-selectors": "2.0.0",
+    "specificity": "0.3.0",
+    "minimist": "1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kwasniew/longest-selctors.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kwasniew/longest-selectors/issues"
+  },
+  "homepage": "https://github.com/kwasniew/longest-selectors"
+}
