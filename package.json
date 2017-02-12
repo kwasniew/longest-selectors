@@ -4,7 +4,7 @@
   "description": "finds longest selectors in CSS",
   "main": "index.js",
   "bin": {
-    "style-in": "cli.js"
+    "longest-selectors": "cli.js"
   },
   "author": "Mateusz Kwasniewski",
   "license": "BSD",
