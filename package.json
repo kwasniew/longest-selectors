@@ -1,6 +1,6 @@
 {
   "name": "longest-selectors",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "finds longest selectors in CSS",
   "main": "index.js",
   "bin": {
